@@ -1,18 +1,16 @@
 import sys
-import nltk
 import threading
 import tkinter as tk
 import speech_recognition as sr
 import pyttsx3 as tts
 from neuralintents import GenericAssistant
-nltk.download('omw-1.4')
 
 class Assistant:
 
     def __init__(self):
         self.recognizer = sr.Recognizer()
         self.speaker = tts.init()
-        self.speaker.setProperty("rate", 150)
+        self.speaker.setProperty("rate", 200)
         self.assistant = GenericAssistant("intents.json", intent_methods={"file": self.create_file})
         self.assistant.train_model()
         self.root = tk.Tk()
@@ -27,15 +25,14 @@ class Assistant:
 
     def run_assistant(self):
         while True:
-            try:
+            try:                
                 with sr.Microphone() as mic:
-                    print("inside")
                     self.recognizer.adjust_for_ambient_noise(mic, duration=0.2)
                     audio = self.recognizer.listen(mic)
                     text = self.recognizer.recognize_google(audio)
                     text = text.lower()
-                    print("test")
-                    if "Alex" in text:
+                    print(str(text))
+                    if "Alex" in str(text):
                         self.label.config(fg="green")
 
                     audio = self.recognizer.listen(mic)
@@ -55,9 +52,11 @@ class Assistant:
                                 self.speaker.runAndWait()
                         self.label.config(fg="black")
 
-            except :
-                print("outside")
+            except sr.WaitTimeoutError():
+                print("Error")
                 self.label.config(fg="black")
                 continue
+
+            except Exception as e: print(e)
 
 Assistant()
