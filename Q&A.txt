@@ -1,0 +1,21 @@
+Intent (can be used at multiple instances) : Select
+    Questions listed : 
+    {
+        Alex Can I have a footlong?
+        Alex I'll have the footlong.
+        Alex Get me a footlong.
+    }
+    One Response Given : 
+    {
+        I have chosen a footlong sized sandwich. What bread would you like to have?
+    }
+Intent : Deselect
+    Questions listed : 
+    {
+        Alex I'd rather have a 6 inch.
+        Alex make that a footlong pro.
+    }
+    One Response Given :
+    {
+        I have chosen a footlong pro sandwich. Would you like to continue with the other selections or would you like to make any other changes?
+    }
