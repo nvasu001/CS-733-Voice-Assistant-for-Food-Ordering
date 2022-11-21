@@ -1,9 +1,9 @@
 Intent (can be used at multiple instances) : Select
     Questions listed : 
     {
-        Alex Can I have a footlong?
-        Alex I'll have the footlong.
-        Alex Get me a footlong.
+        Can I have a footlong?
+        I'll have the footlong.
+        Get me a footlong.
     }
     One Response Given : 
     {
@@ -12,8 +12,8 @@ Intent (can be used at multiple instances) : Select
 Intent : Deselect
     Questions listed : 
     {
-        Alex I'd rather have a 6 inch.
-        Alex make that a footlong pro.
+        I'd rather have a 6 inch.
+        make that a footlong pro.
     }
     One Response Given :
     {
