@@ -9,7 +9,7 @@ Intent (can be used at multiple instances) : Select
     {
         I have chosen a footlong sized sandwich. What bread would you like to have?
     }
-Intent : Deselect
+Intent : De-select
     Questions listed : 
     {
         I'd rather have a 6 inch.

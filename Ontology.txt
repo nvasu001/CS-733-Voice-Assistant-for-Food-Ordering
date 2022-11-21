@@ -1,0 +1,24 @@
+Domain : size
+Slots : 6", footlong, footlong pro
+
+Domain : bread
+Slots : Toasted artisan Italian, toasted artisan flatbread, toasted hearty multigrain, toasted italian herbs and cheese
+
+Domain : Protein
+slots : grilled chicken, bacon, meatballs, ...
+
+Domain : cheese
+slots : American cheese, pepper jack, provolone, monterey cheddar
+
+Domain : Veggies
+slots : Lettuce, tomatoes, spinach, cucumbers, green peppers, pickles, olives, red onions, jalapenos, banana peppers
+
+Domain : Sauces
+slots : Oil, Red Wine Vinegar, Regular Mayonnaise, Yellow mustard, Honey mustard, buffalo sauce, sweet onion teriyaki, pepper corn ranch, baja chipotle, mvp parmesan vinaigrette, roasted garlic aioli
+
+Domain : Seasonings
+slots : black pepper, salt, parmesan cheese
+
+Domain : add ons
+slots : bacon, sliced avocado, pepperoni, belgioioso fresh mozzarella, Smashed Avocado, Capicola
+
