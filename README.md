@@ -21,6 +21,9 @@ https://code.visualstudio.com/docs/python/environments
     12. "pip3 install pyaudio"
     13. "pip3 install tensorflow"
     14. "pip3 install neuralintents"
+    15. "pip3 install flask"
+    16. "pip3 install beautifulsoup4"
+    17. "pip3 install selenium"
 }
 
 Execution:
@@ -31,3 +34,4 @@ Note: This step is not requiredCreate requirements.txt - "pip freeze > requireme
 References:
 https://www.youtube.com/watch?v=F62wb_jfUUw
 https://www.tensorflow.org/install/pip#windows-native_1
+https://www.youtube.com/watch?v=GHvj1ivQ7ms
