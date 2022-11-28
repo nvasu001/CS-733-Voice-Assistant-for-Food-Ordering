@@ -1,19 +1,21 @@
 Intent (can be used at multiple instances) : Select
     Questions listed : 
     {
-        Can I have a footlong?
-        I'll have the footlong.
-        Get me a footlong.
+        Can I have a <ref>?
+        I'll have the <ref>.
+        Get me a <ref>.
+        Can you get me a <ref>
+        I want to order a <ref>
     }
     One Response Given : 
     {
-        I have chosen a footlong sized sandwich. What bread would you like to have?
+        I have chosen a <ref> sized sandwich. What bread would you like to have?
     }
 Intent : De-select
     Questions listed : 
     {
-        I'd rather have a 6 inch.
-        make that a footlong pro.
+        I'd rather have a <ref>.
+        make that a <ref>.
     }
     One Response Given :
     {
