@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 https://github.com/monologg/JointBERT
 https://arxiv.org/pdf/1812.09471.pdf
-=======
 hi there, how are you
->>>>>>> d32524d504e12a666d2fca4707523d5689275253
