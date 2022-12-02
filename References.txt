@@ -1,0 +1,2 @@
+https://github.com/monologg/JointBERT
+https://arxiv.org/pdf/1812.09471.pdf
