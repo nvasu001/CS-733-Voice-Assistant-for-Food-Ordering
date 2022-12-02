@@ -1,4 +1,7 @@
 https://github.com/monologg/JointBERT
 https://arxiv.org/pdf/1812.09471.pdf
 https://github.com/RexZChen/Bi-Lingual-Dialogue-System  (reference for intent)
-
+https://github.com/czhang99/Capsule-NLU (capsule)
+https://arxiv.org/pdf/1812.09471.pdf (capsule)
+https://github.com/90217/joint-intent-classification-and-slot-filling-based-on-BERT (BERT)
+https://arxiv.org/pdf/1902.10909.pdf (BERT)

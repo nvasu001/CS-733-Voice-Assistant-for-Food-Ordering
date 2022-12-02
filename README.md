@@ -24,6 +24,7 @@ https://code.visualstudio.com/docs/python/environments
     15. "pip3 install flask"
     16. "pip3 install beautifulsoup4"
     17. "pip3 install selenium"
+    18. "pip3 install --upgrade autopep8"
 }
 
 Execution:
