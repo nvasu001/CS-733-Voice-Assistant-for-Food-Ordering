@@ -21,3 +21,9 @@ Intent : De-select
     {
         I have chosen a footlong pro sandwich. Would you like to continue with the other selections or would you like to make any other changes?
     }
+Intent : Adding extra quantity
+    response :
+    {
+        You ordered <ref> and <ref>. Anything else you want to add to your order? 
+    }
+    
