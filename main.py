@@ -32,10 +32,11 @@ class Assistant:
                     text = self.recognizer.recognize_google(audio)
                     text = text.lower()
                     print(str(text))
-                    with open("output.txt", "w") as f:
+                    with open("output.txt", "a") as f:
                         if "alex" in str(text):
                             self.label.config(fg="green")
-                            f.write(text)
+                            f.write("\n")
+                            f.write(text.replace('alex', ''))
                             audio = self.recognizer.listen(mic)
                             text = self.recognizer.recognize_google(audio)
                             text = text.lower()
