@@ -25,6 +25,7 @@ https://code.visualstudio.com/docs/python/environments
     16. "pip3 install beautifulsoup4"
     17. "pip3 install selenium"
     18. "pip3 install --upgrade autopep8"
+    19. "pip3 install vosk"
 }
 
 Execution:
