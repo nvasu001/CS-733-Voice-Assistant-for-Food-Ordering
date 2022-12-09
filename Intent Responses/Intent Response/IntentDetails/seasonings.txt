@@ -1,3 +1,4 @@
 salt,
-pepper,
+Black pepper,
 parmesan cheese
+Oregano
