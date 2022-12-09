@@ -1,0 +1,29 @@
+Intent (can be used at multiple instances) : Select
+    Questions listed : 
+    {
+        Can I have a <ref>?
+        I'll have the <ref>.
+        Get me a <ref>.
+        Can you get me a <ref>
+        I want to order a <ref>
+    }
+    One Response Given : 
+    {
+        I have chosen a <ref> sized sandwich. What bread would you like to have?
+    }
+Intent : De-select
+    Questions listed : 
+    {
+        I'd rather have a <ref>.
+        make that a <ref>.
+    }
+    One Response Given :
+    {
+        I have chosen a footlong pro sandwich. Would you like to continue with the other selections or would you like to make any other changes?
+    }
+Intent : Adding extra quantity
+    response :
+    {
+        You ordered <ref> and <ref>. Anything else you want to add to your order? 
+    }
+    

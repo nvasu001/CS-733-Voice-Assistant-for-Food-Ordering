@@ -3,8 +3,11 @@ import threading
 import tkinter as tk
 import speech_recognition as sr
 import pyttsx3 as tts
+<<<<<<< HEAD
 import nltk
 nltk.download('omw-1.4')
+=======
+>>>>>>> 5532842bc2c185b3475c3131e32db88b3f6bd56f
 from neuralintents import GenericAssistant
 
 class Assistant:
@@ -27,38 +30,45 @@ class Assistant:
 
     def run_assistant(self):
         while True:
-            try:                
+            try:
                 with sr.Microphone() as mic:
                     self.recognizer.adjust_for_ambient_noise(mic, duration=0.2)
                     audio = self.recognizer.listen(mic)
                     text = self.recognizer.recognize_google(audio)
                     text = text.lower()
                     print(str(text))
-                    if "Alex" in str(text):
-                        self.label.config(fg="green")
+                    with open("output.txt", "a") as f:
+                        if "alex" in str(text):
+                            self.label.config(fg="green")
+                            f.write("\n")
+                            f.write(text.replace('alex', ''))
+                            audio = self.recognizer.listen(mic)
+                            text = self.recognizer.recognize_google(audio)
+                            text = text.lower()
 
-                    audio = self.recognizer.listen(mic)
-                    text = self.recognizer.recognize_google(audio)
-                    text = text.lower()
-                    if text == "stop":
-                        self.speaker.say("Bye")
-                        self.speaker.runAndWait()
-                        self.speaker.stop()
-                        self.root.destroy()
-                        sys.exit()
-                    else:
-                        if text is not None:
-                            response = self.assistant.request(text)
-                            if response is not None:
-                                self.speaker.say(response)
+                            if text == "stop":
+                                f.close()
+                                self.speaker.say("Bye")
                                 self.speaker.runAndWait()
-                        self.label.config(fg="black")
+                                self.speaker.stop()
+                                self.root.destroy()
+                                sys.exit()
+                            else:
+                                if text is not None:
+                                    response = self.assistant.request(text)
+                                    if response is not None:
+                                        self.speaker.say(response)
+                                        self.speaker.runAndWait()
+                                self.label.config(fg="black")
+
+            except sr.UnknownValueError():
+                print("Error")
+                self.label.config(fg="black")
+                continue
 
             except sr.WaitTimeoutError():
                 print("Error")
                 self.label.config(fg="black")
                 continue
-
-            except Exception as e: print(e)
 
 Assistant()
