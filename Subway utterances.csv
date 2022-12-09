@@ -90,7 +90,7 @@ s_sauce, Can I have the parmesan vinaigrette instead ,o o o o b-sauce i-sauce o
 s_sauce, Add garlic aioli ,o b-sauce i-sauce ,,,,,,,,,,,,,,,,,,,,
 s_sauce, Get me some of that garlic aioli ,o o o o o b-sauce i-sauce,,,,,,,,,,,,,,,,,,,,
 s_sauce, Garlic aioli is good ,b-sauce i-sauce o o,,,,,,,,,,,,,,,,,,,,
-greetings,"hi, how are you today?",b-greetings i-greetings i-greetings i-greetings,,,,,,,,,,,,,,,,,,,,"hi, how are you today?"
+greetings,"hi, how are you today?",b-greetings i-greetings i-greetings i-greetings,,,,,,,,,,,,,,,,,,,,
 greetings,hello,b-greetings ,,,,,,,,,,,,,,,,,,,,hello
 greetings,hi there,b-greetings o,,,,,,,,,,,,,,,,,,,,hi there
 agree,  that sounds good,o b-agree i-agree,,,,,,,,,,,,,,,,,,,,
