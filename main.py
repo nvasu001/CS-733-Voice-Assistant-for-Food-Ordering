@@ -3,11 +3,6 @@ import threading
 import tkinter as tk
 import speech_recognition as sr
 import pyttsx3 as tts
-<<<<<<< HEAD
-import nltk
-nltk.download('omw-1.4')
-=======
->>>>>>> 5532842bc2c185b3475c3131e32db88b3f6bd56f
 from neuralintents import GenericAssistant
 
 class Assistant:
