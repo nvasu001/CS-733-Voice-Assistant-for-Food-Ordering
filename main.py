@@ -25,7 +25,7 @@ class Assistant:
 
     def run_assistant(self):
         while True:
-            try:                
+            try:
                 with sr.Microphone() as mic:
                     self.recognizer.adjust_for_ambient_noise(mic, duration=0.2)
                     audio = self.recognizer.listen(mic)
