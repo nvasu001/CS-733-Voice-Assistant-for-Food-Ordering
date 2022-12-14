@@ -1,4 +1,15 @@
 utterances
+Hello
+Hi
+hello, i`d like to order
+hi, i`d like to order
+i`d like to order
+I want to order
+I want to make an order
+yes
+sure
+sure thank you
+alright
 I will have SELECT
 I will have veggies
 I will have Lettuce
