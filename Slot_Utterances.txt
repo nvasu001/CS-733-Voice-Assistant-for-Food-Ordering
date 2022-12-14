@@ -1,0 +1,602 @@
+utterances
+I will have SELECT
+I will have veggies
+I will have Lettuce
+I will have Spinach
+I will have Cucumber
+I will have Cucumbers
+I will have Tomato
+I will have Tomatoes
+I will have Red Onions
+I will have Green Peppers
+I will have Black Olives
+I will have Pickles
+I will have Banana Peppers
+I will have Jalapeños
+I will have bread
+I will have Hearty Multigrain
+I will have Artisan Italian
+I will have Artisan Flatbread
+I will have Italian Herbs & Cheese
+I will have sauce
+I will have oil
+I will have red wine vinegar
+I will have regular mayonnaise
+I will have yellow mustard
+I will have honey mustard
+I will have buffalo sauce
+I will have sweet onion teriyaki
+I will have peppercorn ranch
+I will have baja chipotle
+I will have mvp parmesan vinaigrette
+I will have roasted garlic aioli
+I will have cheese
+I will have American Cheese
+I will have Pepper Jack
+I will have Provolone
+I will have Swiss
+I will have Monterey Cheddar
+I will have size
+I will have 6
+I will have footlong
+I will have seasonings
+I will have black pepper
+I will have salt
+I will have parmesan cheese
+I will have addons
+I will have bacon
+I will have sliced avocado
+I will have pepperoni
+I will have belgioioso fresh mozzarella
+I will have smashed avocado
+I will have capicola
+I`d like to order veggies
+I`d like to order Lettuce
+I`d like to order Spinach
+I`d like to order Cucumber
+I`d like to order Cucumbers
+I`d like to order Tomato
+I`d like to order Tomatoes
+I`d like to order Red Onions
+I`d like to order Green Peppers
+I`d like to order Black Olives
+I`d like to order Pickles
+I`d like to order Banana Peppers
+I`d like to order Jalapeños
+I`d like to order bread
+I`d like to order Hearty Multigrain
+I`d like to order Artisan Italian
+I`d like to order Artisan Flatbread
+I`d like to order Italian Herbs & Cheese
+I`d like to order sauce
+I`d like to order oil
+I`d like to order red wine vinegar
+I`d like to order regular mayonnaise
+I`d like to order yellow mustard
+I`d like to order honey mustard
+I`d like to order buffalo sauce
+I`d like to order sweet onion teriyaki
+I`d like to order peppercorn ranch
+I`d like to order baja chipotle
+I`d like to order mvp parmesan vinaigrette
+I`d like to order roasted garlic aioli
+I`d like to order cheese
+I`d like to order American Cheese
+I`d like to order Pepper Jack
+I`d like to order Provolone
+I`d like to order Swiss
+I`d like to order Monterey Cheddar
+I`d like to order size
+I`d like to order 6
+I`d like to order footlong
+I`d like to order seasonings
+I`d like to order black pepper
+I`d like to order salt
+I`d like to order parmesan cheese
+I`d like to order addons
+I`d like to order bacon
+I`d like to order sliced avocado
+I`d like to order pepperoni
+I`d like to order belgioioso fresh mozzarella
+I`d like to order smashed avocado
+I`d like to order capicola
+Please add veggies
+Please add Lettuce
+Please add Spinach
+Please add Cucumber
+Please add Cucumbers
+Please add Tomato
+Please add Tomatoes
+Please add Red Onions
+Please add Green Peppers
+Please add Black Olives
+Please add Pickles
+Please add Banana Peppers
+Please add Jalapeños
+Please add bread
+Please add Hearty Multigrain
+Please add Artisan Italian
+Please add Artisan Flatbread
+Please add Italian Herbs & Cheese
+Please add sauce
+Please add oil
+Please add red wine vinegar
+Please add regular mayonnaise
+Please add yellow mustard
+Please add honey mustard
+Please add buffalo sauce
+Please add sweet onion teriyaki
+Please add peppercorn ranch
+Please add baja chipotle
+Please add mvp parmesan vinaigrette
+Please add roasted garlic aioli
+Please add cheese
+Please add American Cheese
+Please add Pepper Jack
+Please add Provolone
+Please add Swiss
+Please add Monterey Cheddar
+Please add size
+Please add 6
+Please add footlong
+Please add seasonings
+Please add black pepper
+Please add salt
+Please add parmesan cheese
+Please add addons
+Please add bacon
+Please add sliced avocado
+Please add pepperoni
+Please add belgioioso fresh mozzarella
+Please add smashed avocado
+Please add capicola
+get me veggies
+get me Lettuce
+get me Spinach
+get me Cucumber
+get me Cucumbers
+get me Tomato
+get me Tomatoes
+get me Red Onions
+get me Green Peppers
+get me Black Olives
+get me Pickles
+get me Banana Peppers
+get me Jalapeños
+get me bread
+get me Hearty Multigrain
+get me Artisan Italian
+get me Artisan Flatbread
+get me Italian Herbs & Cheese
+get me sauce
+get me oil
+get me red wine vinegar
+get me regular mayonnaise
+get me yellow mustard
+get me honey mustard
+get me buffalo sauce
+get me sweet onion teriyaki
+get me peppercorn ranch
+get me baja chipotle
+get me mvp parmesan vinaigrette
+get me roasted garlic aioli
+get me cheese
+get me American Cheese
+get me Pepper Jack
+get me Provolone
+get me Swiss
+get me Monterey Cheddar
+get me size
+get me 6
+get me footlong
+get me seasonings
+get me black pepper
+get me salt
+get me parmesan cheese
+get me addons
+get me bacon
+get me sliced avocado
+get me pepperoni
+get me belgioioso fresh mozzarella
+get me smashed avocado
+get me capicola
+I want veggies
+I want Lettuce
+I want Spinach
+I want Cucumber
+I want Cucumbers
+I want Tomato
+I want Tomatoes
+I want Red Onions
+I want Green Peppers
+I want Black Olives
+I want Pickles
+I want Banana Peppers
+I want Jalapeños
+I want bread
+I want Hearty Multigrain
+I want Artisan Italian
+I want Artisan Flatbread
+I want Italian Herbs & Cheese
+I want sauce
+I want oil
+I want red wine vinegar
+I want regular mayonnaise
+I want yellow mustard
+I want honey mustard
+I want buffalo sauce
+I want sweet onion teriyaki
+I want peppercorn ranch
+I want baja chipotle
+I want mvp parmesan vinaigrette
+I want roasted garlic aioli
+I want cheese
+I want American Cheese
+I want Pepper Jack
+I want Provolone
+I want Swiss
+I want Monterey Cheddar
+I want size
+I want 6
+I want footlong
+I want seasonings
+I want black pepper
+I want salt
+I want parmesan cheese
+I want addons
+I want bacon
+I want sliced avocado
+I want pepperoni
+I want belgioioso fresh mozzarella
+I want smashed avocado
+I want capicola
+Add veggies
+Add Lettuce
+Add Spinach
+add Cucumber
+Add Cucumbers
+Add Tomato
+Add Tomatoes
+Add Red Onions
+Add Green Peppers
+Add Black Olives
+Add Pickles
+Add Banana Peppers
+Add Jalapeños
+Add bread
+Add Hearty Multigrain
+Add Artisan Italian
+Add Artisan Flatbread
+Add Italian Herbs & Cheese
+Add sauce
+Add oil
+Add red wine vinegar
+Add regular mayonnaise
+Add yellow mustard
+Add honey mustard
+Add buffalo sauce
+Add sweet onion teriyaki
+Add peppercorn ranch
+Add baja chipotle
+Add mvp parmesan vinaigrette
+Add roasted garlic aioli
+Add cheese
+Add American Cheese
+Add Pepper Jack
+Add Provolone
+Add Swiss
+Add Monterey Cheddar
+Add size
+Add 6
+Add footlong
+Add seasonings
+Add black pepper
+Add salt
+Add parmesan cheese
+Add addons
+Add bacon
+Add sliced avocado
+Add pepperoni
+Add belgioioso fresh mozzarella
+Add smashed avocado
+Add capicola
+give me veggies
+give me Lettuce
+give me Spinach
+give me Cucumber
+give me Cucumbers
+give me Tomato
+give me Tomatoes
+give me Red Onions
+give me Green Peppers
+give me Black Olives
+give me Pickles
+give me Banana Peppers
+give me Jalapeños
+give me bread
+give me Hearty Multigrain
+give me Artisan Italian
+give me Artisan Flatbread
+give me Italian Herbs & Cheese
+give me sauce
+give me oil
+give me red wine vinegar
+give me regular mayonnaise
+give me yellow mustard
+give me honey mustard
+give me buffalo sauce
+give me sweet onion teriyaki
+give me peppercorn ranch
+give me baja chipotle
+give me mvp parmesan vinaigrette
+give me roasted garlic aioli
+give me cheese
+give me American Cheese
+give me Pepper Jack
+give me Provolone
+give me Swiss
+give me Monterey Cheddar
+give me size
+give me 6
+give me footlong
+give me seasonings
+give me black pepper
+give me salt
+give me parmesan cheese
+give me addons
+give me bacon
+give me sliced avocado
+give me pepperoni
+give me belgioioso fresh mozzarella
+give me smashed avocado
+give me capicola
+I choose veggies
+I choose Lettuce
+I choose Spinach
+I chose Cucumber
+I choose Cucumbers
+I choose Tomato
+I choose Tomatoes
+I choose Red Onions
+I choose Green Peppers
+I choose Black Olives
+I choose Pickles
+I choose Banana Peppers
+I choose Jalapeños
+I choose bread
+I choose Hearty Multigrain
+I choose Artisan Italian
+I choose Artisan Flatbread
+I choose Italian Herbs & Cheese
+I choose sauce
+I choose oil
+I choose red wine vinegar
+I choose regular mayonnaise
+I choose yellow mustard
+I choose honey mustard
+I choose buffalo sauce
+I choose sweet onion teriyaki
+I choose peppercorn ranch
+I choose baja chipotle
+I choose mvp parmesan vinaigrette
+I choose roasted garlic aioli
+I choose cheese
+I choose American Cheese
+I choose Pepper Jack
+I choose Provolone
+I choose Swiss
+I choose Monterey Cheddar
+I choose size
+I choose 6
+I choose footlong
+I choose seasonings
+I choose black pepper
+I choose salt
+I choose parmesan cheese
+I choose addons
+I choose bacon
+I choose sliced avocado
+I choose pepperoni
+I choose belgioioso fresh mozzarella
+I choose smashed avocado
+I choose capicola
+Please remove veggies
+Please remove Lettuce
+Please remove Spinach
+please remove Cucumber
+Please remove Cucumbers
+Please remove Tomato
+Please remove Tomatoes
+Please remove Red Onions
+Please remove Green Peppers
+Please remove Black Olives
+Please remove Pickles
+Please remove Banana Peppers
+Please remove Jalapeños
+Please remove bread
+Please remove Hearty Multigrain
+Please remove Artisan Italian
+Please remove Artisan Flatbread
+Please remove Italian Herbs & Cheese
+Please remove sauce
+Please remove oil
+Please remove red wine vinegar
+Please remove regular mayonnaise
+Please remove yellow mustard
+Please remove honey mustard
+Please remove buffalo sauce
+Please remove sweet onion teriyaki
+Please remove peppercorn ranch
+Please remove baja chipotle
+Please remove mvp parmesan vinaigrette
+Please remove roasted garlic aioli
+Please remove cheese
+Please remove American Cheese
+Please remove Pepper Jack
+Please remove Provolone
+Please remove Swiss
+Please remove Monterey Cheddar
+Please remove size
+Please remove 6
+Please remove footlong
+Please remove seasonings
+Please remove black pepper
+Please remove salt
+Please remove parmesan cheese
+Please remove addons
+Please remove bacon
+Please remove sliced avocado
+Please remove pepperoni
+Please remove belgioioso fresh mozzarella
+Please remove smashed avocado
+Please remove capicola
+No veggies
+No Lettuce
+No Spinach
+no Cucumber
+No Cucumbers
+No Tomato
+No Tomatoes
+No Red Onions
+No Green Peppers
+No Black Olives
+No Pickles
+No Banana Peppers
+No Jalapeños
+No bread
+No Hearty Multigrain
+No Artisan Italian
+No Artisan Flatbread
+No Italian Herbs & Cheese
+No sauce
+No oil
+No red wine vinegar
+No regular mayonnaise
+No yellow mustard
+No honey mustard
+No buffalo sauce
+No sweet onion teriyaki
+No peppercorn ranch
+No baja chipotle
+No mvp parmesan vinaigrette
+No roasted garlic aioli
+No cheese
+No American Cheese
+No Pepper Jack
+No Provolone
+No Swiss
+No Monterey Cheddar
+No size
+No 6
+No footlong
+No seasonings
+No black pepper
+No salt
+No parmesan cheese
+No addons
+No bacon
+No sliced avocado
+No pepperoni
+No belgioioso fresh mozzarella
+No smashed avocado
+No capicola
+I don`t want  veggies
+I don`t want  Lettuce
+I don`t want  Spinach
+I don`t want Cucumber
+I don`t want  Cucumbers
+I don`t want  Tomato
+I don`t want  Tomatoes
+I don`t want  Red Onions
+I don`t want  Green Peppers
+I don`t want  Black Olives
+I don`t want  Pickles
+I don`t want  Banana Peppers
+I don`t want  Jalapeños
+I don`t want  bread
+I don`t want  Hearty Multigrain
+I don`t want  Artisan Italian
+I don`t want  Artisan Flatbread
+I don`t want  Italian Herbs & Cheese
+I don`t want  sauce
+I don`t want  oil
+I don`t want  red wine vinegar
+I don`t want  regular mayonnaise
+I don`t want  yellow mustard
+I don`t want  honey mustard
+I don`t want  buffalo sauce
+I don`t want  sweet onion teriyaki
+I don`t want  peppercorn ranch
+I don`t want  baja chipotle
+I don`t want  mvp parmesan vinaigrette
+I don`t want  roasted garlic aioli
+I don`t want  cheese
+I don`t want  American Cheese
+I don`t want  Pepper Jack
+I don`t want  Provolone
+I don`t want  Swiss
+I don`t want  Monterey Cheddar
+I don`t want  size
+I don`t want  6
+I don`t want  footlong
+I don`t want  seasonings
+I don`t want  black pepper
+I don`t want  salt
+I don`t want  parmesan cheese
+I don`t want  addons
+I don`t want  bacon
+I don`t want  sliced avocado
+I don`t want  pepperoni
+I don`t want  belgioioso fresh mozzarella
+I don`t want  smashed avocado
+I don`t want  capicola
+remove  veggies
+remove  Lettuce
+remove  Spinach
+remove Cucumber
+remove  Cucumbers
+remove  Tomato
+remove  Tomatoes
+remove  Red Onions
+remove  Green Peppers
+remove  Black Olives
+remove  Pickles
+remove  Banana Peppers
+remove  Jalapeños
+remove  bread
+remove  Hearty Multigrain
+remove  Artisan Italian
+remove  Artisan Flatbread
+remove  Italian Herbs & Cheese
+remove  sauce
+remove  oil
+remove  red wine vinegar
+remove  regular mayonnaise
+remove  yellow mustard
+remove  honey mustard
+remove  buffalo sauce
+remove  sweet onion teriyaki
+remove  peppercorn ranch
+remove  baja chipotle
+remove  mvp parmesan vinaigrette
+remove  roasted garlic aioli
+remove  cheese
+remove  American Cheese
+remove  Pepper Jack
+remove  Provolone
+remove  Swiss
+remove  Monterey Cheddar
+remove  size
+remove  6
+remove  footlong
+remove  seasonings
+remove  black pepper
+remove  salt
+remove  parmesan cheese
+remove  addons
+remove  bacon
+remove  sliced avocado
+remove  pepperoni
+remove  belgioioso fresh mozzarella
+remove  smashed avocado
+remove  capicola
