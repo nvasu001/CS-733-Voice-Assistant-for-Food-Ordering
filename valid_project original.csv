@@ -1,0 +1,70 @@
+text,intent
+i d like to have this track onto my classical relaxations playlist,AddToPlaylist
+add the album to my flow español playlist,AddToPlaylist
+add digging now to my young at heart playlist,AddToPlaylist
+book me seats for 6 at the best brasserie that serves marche neighboring my hostel,BookRestaurant
+play caitlin cary from the fourties,PlayMusic
+add a track to my hands up playlist,AddToPlaylist
+i d like to see the saga tamagotchi 64: minna de tamagotchi world,SearchCreativeWork
+give the search for the snow leopard a rating of zero of 6 stars,RateBook
+for the book tale of the toa i give five points,RateBook
+will it be warmer now in covenant life,GetWeather
+play rap album one by gene vincent,PlayMusic
+i want to book the hat for my grandfather and i in arkansas,BookRestaurant
+book a tea place at seven,BookRestaurant
+find the movie schedule for animated movies around here,SearchScreeningEvent
+No baja chipotle,deselect
+I want red wine vinegar,select
+get me Cucumber,select
+I choose bacon,select
+give me Cucumbers,select
+I`d like to order belgioioso fresh mozzarella,select
+remove  size,deselect
+I choose mvp parmesan vinaigrette,select
+I don`t want  Tomato,deselect
+give me mvp parmesan vinaigrette,select
+remove  sweet onion teriyaki,deselect
+I will have buffalo sauce,select
+I want parmesan cheese,select
+I`d like to order peppercorn ranch,select
+Please remove pepperoni,deselect
+I will have sliced avocado,select
+get me Italian Herbs & Cheese,select
+Add veggies,select
+I choose Green Peppers,select
+give me honey mustard,select
+Add Provolone,select
+I don`t want  Red Onions,deselect
+Add Tomato,select
+I don`t want  Hearty Multigrain,deselect
+Please add Italian Herbs & Cheese,select
+I don`t want  peppercorn ranch,deselect
+No sauce,deselect
+I want Italian Herbs & Cheese,select
+Please add Artisan Italian,select
+remove  yellow mustard,deselect
+Please add Swiss,select
+I will have Banana Peppers,select
+I will have roasted garlic aioli,select
+give me size,select
+get me Black Olives,select
+I choose Swiss,select
+give me Black Olives,select
+I choose pepperoni,select
+get me Tomato,select
+remove  red wine vinegar,deselect
+Please add salt,select
+remove  smashed avocado,deselect
+I want Green Peppers,select
+I want yellow mustard,select
+Add parmesan cheese,select
+No Provolone,deselect
+Add Italian Herbs & Cheese,select
+No sliced avocado,deselect
+give me Provolone,select
+remove  Black Olives,deselect
+Add pepperoni,select
+get me sauce,select
+I`d like to order American Cheese,select
+I`d like to order Green Peppers,select
+Add bacon,select
