@@ -7,3 +7,6 @@ https://github.com/90217/joint-intent-classification-and-slot-filling-based-on-B
 https://arxiv.org/pdf/1902.10909.pdf (BERT)
 https://www.youtube.com/watch?v=SqVeAxrPAB0 (for asr)
 https://www.youtube.com/watch?v=u6cmiBp1obc (for tts)
+https://colab.research.google.com/github/PradipNichite/Youtube-Tutorials/blob/main/Spacy_Custom_NER_Youtube.ipynb#scrollTo=enIOTr8y6hf9 ( spacy NER)
+https://github.com/amrrs/custom-ner-with-spacy3/blob/main/Custom_NER_with_Spacy3.ipynb (SPACY NER)
+https://tecoholic.github.io/ner-annotator/ (ner annotator)
