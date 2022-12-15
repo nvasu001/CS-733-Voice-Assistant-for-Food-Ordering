@@ -2,9 +2,9 @@ Intent,Slot,Response
 greeting,,"Hello, this is your subway assistant. What sandwich would you like to order today?"
 select,sandwich,Ok. I have selected the <ref> sandwich for you. What size would you like
 select,size,Ok. I have selected <ref> sandwich for you. What bread would like to have in your sandwich?
-select,bread,Ok. I have selected <ref> for you. What cheese would you like on your sandwich
-select,cheese,I have selected <ref> to go on top of your sandwich. What veggies would you you like to top that with?
-select,veggies,I have selected <ref> veggies for your sandwich. What sauces would you like to drizzle on your sandwich?
+select,bread,Ok. I have selected <ref> bread for you. What cheese would you like on your sandwich
+select,cheese,I have selected <ref> cheese to go with your sandwich. What veggies would you you like to top that with?
+select,veggies,I have selected <ref> for your sandwich. What sauces would you like to drizzle on your sandwich?
 select,sauce,I have selected <ref> for your sandwich. What seasoning would you like with that?
 select,seasonings,Ok. I have selected <ref> for you. Would you like any add-ons?
 select,addons,"Ok, I have selected <ref> for you. Would you like me to place the order?"
