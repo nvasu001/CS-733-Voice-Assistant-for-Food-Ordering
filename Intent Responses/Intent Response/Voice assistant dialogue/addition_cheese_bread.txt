@@ -1,5 +1,0 @@
-Nice choice, you ordered {} bread as {}, anything else for cheese?
-You just ordered {} bread as {}. What else do you need for cheese?
-Good choice, you ordered {} bread as {}, anything else for cheese?
-You just ordered {} bread as {}. What else for cheese?
-You just ordered {} bread as {}. Anything other things you need to add for cheese?

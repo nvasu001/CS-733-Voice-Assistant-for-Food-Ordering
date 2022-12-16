@@ -20,5 +20,4 @@ Domain : Seasonings
 slots : black pepper, salt, parmesan cheese
 
 Domain : add ons
-slots : bacon, sliced avocado, pepperoni, belgioioso fresh mozzarella, Smashed Avocado, Capicola
-
+slots : bacon, sliced avocado, pepperoni, belgioioso fresh mozzarella, smashed avocado, capicola
