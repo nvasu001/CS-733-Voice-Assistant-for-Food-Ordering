@@ -34,3 +34,4 @@ This module is where one executes the voice assistant. It will record the voice 
 
 Once you execute the Integrated VA, it will immediately start recording your command and once you stop the recording, it will give a response to your command.
 
+## References
