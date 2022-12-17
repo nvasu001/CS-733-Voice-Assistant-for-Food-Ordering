@@ -1,5 +1,5 @@
 Intent,Slot,Response
-greeting,,"Hello, this is your subway assistant. What sandwich would you like to order today?"
+greetings,,"Hello, this is your subway assistant. What sandwich would you like to order today?"
 select,SANDWICH,Ok. I have selected the <ref> sandwich for you. What size would you like
 select,SIZE,Ok. I have selected <ref> sandwich for you. What bread would like to have in your sandwich?
 select,BREAD,Ok. I have selected <ref> bread for you. What cheese would you like on your sandwich
