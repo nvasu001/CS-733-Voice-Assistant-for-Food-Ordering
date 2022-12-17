@@ -1,0 +1,57 @@
+text,intent
+I will have veggies,select
+I choose capicola,select
+Please remove sliced avocado,deselect
+give me sauce,select
+I`d like to order Jalapeños,select
+I want Pickles,select
+I`d like to order Swiss,select
+give me baja chipotle,select
+Add Artisan Flatbread,select
+I`d like to order 6,select
+I don`t want  Black Olives,deselect
+I choose honey mustard,select
+Add Pickles,select
+remove  seasonings,deselect
+give me seasonings,select
+give me capicola,select
+Please add addons,select
+I want mvp parmesan vinaigrette,select
+give me Monterey Cheddar,select
+I don`t want  addons,deselect
+I`d like to order salt,select
+I choose sweet onion teriyaki,select
+Add smashed avocado,select
+I don`t want  Italian Herbs & Cheese,deselect
+get me seasonings,select
+Please add Pickles,select
+I`d like to order capicola,select
+remove  Red Onions,deselect
+give me Green Peppers,select
+give me 6,select
+Please add Jalapeños,select
+Please remove roasted garlic aioli,deselect
+Please add yellow mustard,select
+I`d like to order Red Onions,select
+I chose Cucumber,select
+I want sauce,select
+remove  cheese,deselect
+No size,deselect
+Add Red Onions,select
+get me black pepper,select
+give me yellow mustard,select
+I choose Lettuce,select
+I choose baja chipotle,select
+I don`t want  yellow mustard,deselect
+Please add footlong,select
+I will have Spinach,select
+No Tomato,deselect
+give me veggies,select
+I want Monterey Cheddar,select
+Please add parmesan cheese,select
+Please remove Cucumbers,deselect
+Please add smashed avocado,select
+get me capicola,select
+I don`t want Cucumber,deselect
+remove  sliced avocado,deselect
+I`d like to order sweet onion teriyaki,select
