@@ -2,13 +2,11 @@
 
 ### Files from the repo that are used in the colab file.
 
-1. test.csv - _it is the intent annotated test dataset_
-2. train.csv - _it is the intent annotated train dataset_
-3. valid.csv - _it is the intent annotated validation dataset_
-4. base_config.cfg - _it is a configuration file for spaCy NER using __Tok2Vec__ which uses CPU and it is optimized for ACCURACY_
-5. dialogue_policy.csv 
-6. slot_annotated_utterances.csv - _it is the slot and entity annotation dataset for spaCy NER_
-7. requirements.txt - _it has all the dependencies for this python project_
+1. Dataset containing files (train.csv,test.csv,valid.csv) required to train the Bert model for the intent Detection 
+2. base_config.cfg - _it is a configuration file for spaCy NER using __Tok2Vec__ which uses CPU and it is optimized for ACCURACY_
+3. dialogue_policy.csv 
+4. slot_annotated_utterances.csv - _it is the slot and entity annotation dataset for spaCy NER_
+5. requirements.txt - _it has all the dependencies for this python project_
 
 You do not have to upload these files into the ___VoiceAssistantforSubway.ipynb___ colab file. Executing the __!wget__ line will upload them into the colab instance.
 
