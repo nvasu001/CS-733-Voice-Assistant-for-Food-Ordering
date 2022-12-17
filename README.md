@@ -12,7 +12,7 @@ This project is still at the Prototype stage.
     - [Slot Detector](#Slot-Detector)
 - [Dialogue Management (DM)](#DM)
     - [Dialogue Policy (DP)](#DP)
-    - [Dialogue State Tracking (DS)](#DS)
+    - [Dialogue State Tracking (DST)](#DST)
 - [Natural Language Generation (NLG)](#NLG)
 - [Integrated Voice Assistant](#Integrated-VA)
 
@@ -59,6 +59,8 @@ There are 6 intents:
     
 The ```sentences``` variable stores the utterances from ```user_input``` in the NLU and ```text``` stores the ```sentences``` as string type.
 The predicted intent is stored in ```classes[label]``` which is the output of the Intent Detector module.
+
+The annotated dataset used to train the model for this module is [test](https://github.com/nvasu001/CS-733-Voice-Assistant-for-Food-Ordering/blob/main/test.csv) [train](https://github.com/nvasu001/CS-733-Voice-Assistant-for-Food-Ordering/blob/main/train.csv) and [validation](https://github.com/nvasu001/CS-733-Voice-Assistant-for-Food-Ordering/blob/main/valid.csv).
     
 ### Slot Detector
     
@@ -66,6 +68,23 @@ The slot detector detects the __entities__ which are the items that are chosen b
 
 The ```ent.text``` is the entity and the ```ent.label_``` is the slot which are the outputs of the slot detector.
 
+The annotated dataset used to train the model for this module is [here](https://github.com/nvasu001/CS-733-Voice-Assistant-for-Food-Ordering/blob/main/slot_annotated_utterances.json).
+## DM
+    
+The dialogue management is where the conversation is tracked and the appropriate response choices and agent actions are decided. 
+    
+### DP
+
+For the Dialogue Policy we have used dialogue_policy.csv to implement it. It is in the form of a pandas dataframe ```df```.
+    
+### DST 
+
+For the prototype we have used python scripting to decide how to make the coverstation with the user. A Dialogue turn is created here for each and every command.
+
+## Dialogue 
+
+In thi prototype, For the NLG we normalize the entities (Text Normalization) uttered by the user using a python dictionary ```official_name```. We replace the <ref> tags with the normalized words. Then we pass on the response to a Text to speech _[7]_ so the user can hear it. 
+      
 ## References
 1. https://colab.research.google.com/github/PradipNichite/Youtube-Tutorials/blob/main/Spacy_Custom_NER_Youtube.ipynb#scrollTo=enIOTr8y6hf9 (SPACY NER)
 2. https://github.com/amrrs/custom-ner-with-spacy3/blob/main/Custom_NER_with_Spacy3.ipynb (SPACY NER)
