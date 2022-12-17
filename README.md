@@ -93,13 +93,13 @@ This module is where one executes the voice assistant. It will record the voice 
 Once you execute the Integrated VA, it will immediately start recording your command and once you stop the recording, it will give a response to your command.
       
 ## References
-1.  https://colab.research.google.com/github/PradipNichite/Youtube-Tutorials/blob/main/Spacy_Custom_NER_Youtube.ipynb#scrollTo=enIOTr8y6hf9 (SPACY NER)
-2.  https://github.com/amrrs/custom-ner-with-spacy3/blob/main/Custom_NER_with_Spacy3.ipynb (SPACY NER)
-3.  https://spacy.io/usage/training#config-overrides (SPACT NER base_config.cfg)
-4.  https://tecoholic.github.io/ner-annotator/ (NER ANNOTATOR)
-5.  https://pypi.org/project/GoogleAudio/ (COLAB AUDIO RECORDING SETUP)
-6.  https://www.researchgate.net/publication/358429149_Speech_to_text_in_python Sundiman, Didi. (2022). Speech to text in python. (ASR)
-7.  https://github.com/mammothtraining/Super-Simple-Text-to-Speech-with-Python-and-Google-Colab/blob/main/01%20Convert%20text%20to%20speech%20with%20gTTS.ipynb (TTS)
-8.  https://www.youtube.com/watch?v=ngYRYMoIGu8&ab_channel=MammothInteractive (TTS)
-9.  https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/18.intent-recognition-with-BERT.ipynb (INTENT DETECTOR)
-10. https://curiousily.com/posts/intent-recognition-with-bert-using-keras-and-tensorflow-2/(INTENT DETECTOR)
+1.  https://colab.research.google.com/github/PradipNichite/Youtube-Tutorials/blob/main/Spacy_Custom_NER_Youtube.ipynb#scrollTo=enIOTr8y6hf9
+2.  https://github.com/amrrs/custom-ner-with-spacy3/blob/main/Custom_NER_with_Spacy3.ipynb
+3.  https://spacy.io/usage/training#config-overrides
+4.  https://tecoholic.github.io/ner-annotator/
+5.  https://pypi.org/project/GoogleAudio/
+6.  https://www.researchgate.net/publication/358429149_Speech_to_text_in_python Sundiman, Didi. (2022). Speech to text in python.
+7.  https://github.com/mammothtraining/Super-Simple-Text-to-Speech-with-Python-and-Google-Colab/blob/main/01%20Convert%20text%20to%20speech%20with%20gTTS.ipynb
+8.  https://www.youtube.com/watch?v=ngYRYMoIGu8&ab_channel=MammothInteractive
+9.  https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/18.intent-recognition-with-BERT.ipynb
+10. https://curiousily.com/posts/intent-recognition-with-bert-using-keras-and-tensorflow-2/
