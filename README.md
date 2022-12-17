@@ -45,4 +45,4 @@ Once you execute the Integrated VA, it will immediately start recording your com
 7. https://github.com/mammothtraining/Super-Simple-Text-to-Speech-with-Python-and-Google-Colab/blob/main/01%20Convert%20text%20to%20speech%20with%20gTTS.ipynb (TTS)
 8. https://www.youtube.com/watch?v=ngYRYMoIGu8&ab_channel=MammothInteractive (TTS)
 9. https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/18.intent-recognition-with-BERT.ipynb (INTENT DETECTOR)
-10.https://curiousily.com/posts/intent-recognition-with-bert-using-keras-and-tensorflow-2/ (INTENT DETECTOR)
+10.https://curiousily.com/posts/intent-recognition-with-bert-using-keras-and-tensorflow-2/(INTENT DETECTOR)
