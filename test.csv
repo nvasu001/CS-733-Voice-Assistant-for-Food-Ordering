@@ -8,11 +8,13 @@ I want Pickles,select
 I`d like to order Swiss,select
 give me baja chipotle,select
 Add Artisan Flatbread,select
+hello,greetings
 I`d like to order 6,select
 I don`t want  Black Olives,deselect
 I choose honey mustard,select
 Add Pickles,select
 remove  seasonings,deselect
+hi,greetings
 give me seasonings,select
 give me capicola,select
 Please add addons,select
@@ -26,6 +28,7 @@ I don`t want  Italian Herbs & Cheese,deselect
 get me seasonings,select
 Please add Pickles,select
 I`d like to order capicola,select
+hi i like to order a sub,greetings
 remove  Red Onions,deselect
 give me Green Peppers,select
 give me 6,select
@@ -33,6 +36,7 @@ Please add Jalapeños,select
 Please remove roasted garlic aioli,deselect
 Please add yellow mustard,select
 I`d like to order Red Onions,select
+hello, i like to order a sub,greetings
 I chose Cucumber,select
 I want sauce,select
 remove  cheese,deselect
@@ -41,6 +45,7 @@ Add Red Onions,select
 get me black pepper,select
 give me yellow mustard,select
 I choose Lettuce,select
+hello i`d like to order a sub,greetings
 I choose baja chipotle,select
 I don`t want  yellow mustard,deselect
 Please add footlong,select
@@ -49,6 +54,7 @@ No Tomato,deselect
 give me veggies,select
 I want Monterey Cheddar,select
 Please add parmesan cheese,select
+hi i`d like to order a sub,greetings
 Please remove Cucumbers,deselect
 Please add smashed avocado,select
 get me capicola,select
