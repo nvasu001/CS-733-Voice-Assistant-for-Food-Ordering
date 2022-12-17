@@ -3,7 +3,8 @@ https://github.com/amrrs/custom-ner-with-spacy3/blob/main/Custom_NER_with_Spacy3
 https://spacy.io/usage/training#config-overrides (SPACT NER base_config.cfg)
 https://tecoholic.github.io/ner-annotator/ (NER ANNOTATOR)
 https://pypi.org/project/GoogleAudio/ (COLAB AUDIO RECORDING SETUP)
-(ASR) - missing
-(TTS) - missing
+https://www.youtube.com/watch?v=xuafxNcFsiE&ab_channel=DidiSundiman(ASR)
+https://github.com/mammothtraining/Super-Simple-Text-to-Speech-with-Python-and-Google-Colab/blob/main/01%20Convert%20text%20to%20speech%20with%20gTTS.ipynb
+https://www.youtube.com/watch?v=ngYRYMoIGu8&ab_channel=MammothInteractive
 https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/18.intent-recognition-with-BERT.ipynb (INTENT DETECTOR)
 https://curiousily.com/posts/intent-recognition-with-bert-using-keras-and-tensorflow-2/ (INTENT DETECTOR)
