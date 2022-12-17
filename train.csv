@@ -215,6 +215,7 @@ I will have yellow mustard,select
 get me Cucumbers,select
 No bacon,deselect
 I`d like to order Artisan Italian,select
+hey,greetings
 I`d like to order Spinach,select
 I will have American Cheese,select
 Please add Tomato,select
@@ -247,6 +248,7 @@ I want capicola,select
 Please add Banana Peppers,select
 give me red wine vinegar,select
 I`d like to order size,select
+hello,greetings
 Please add Provolone,select
 Please add Cucumber,select
 get me addons,select
