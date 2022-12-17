@@ -43,9 +43,22 @@ The NLU in a TOD is used to extract the user's goal from the utterance.
     
 For the ASR we have used the GoogleColabAudio _[5]_ to set up the mic which saves the audio recording in ```audio.wav``` as colab runs in a remote server and does not have access to the built in microphone of the local machine. We have also used the Speech to Text _[6]_ as the ASR along with the recorder.
 
-### Intent Detection
+The output of the ASR is ```user_input``` which is a string type.
 
+### Intent Detector
 
+The intent detector in a TOD extracts the command/action context from the user's utterance based off which a response can be chosen.
+
+There are 6 intents:
+    1. Select (used in the prototype)
+    2. Deselect (used in the prototype)
+    3. Greetings (used in the prototype)
+    4. Agree
+    5. Disagree
+    6. Instead
+    
+The ```sentences``` variable stores the utterances from ```user_input``` in the NLU and ```text``` stores the ```sentences``` as string type.
+The predicted intent is stored in ```classes[label]``` which is the output of the Intent Detector module.
 
 ## References
 1. https://colab.research.google.com/github/PradipNichite/Youtube-Tutorials/blob/main/Spacy_Custom_NER_Youtube.ipynb#scrollTo=enIOTr8y6hf9 (SPACY NER)
