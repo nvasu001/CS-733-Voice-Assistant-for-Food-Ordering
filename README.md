@@ -41,7 +41,7 @@ The NLU in a TOD is used to extract the user's goal from the utterance.
 
 ### ASR
     
-For the ASR we have used the GoogleColabAudio _[5]_ to set up the mic which saves the audio recording in ```audio.wav``` as colab runs in a remote server and does not have access to the built in microphone of the local machine. We have also used the Speech to Text _[6]_ as the ASR along with the recorder.
+For the ASR we have used the GoogleColabAudio ___[5]___ to set up the mic which saves the audio recording in ```audio.wav``` as colab runs in a remote server and does not have access to the built in microphone of the local machine. We have also used the Speech to Text ___[6]___ as the ASR along with the recorder.
 
 The output of the ASR is ```user_input``` which is a string type.
 
@@ -63,12 +63,15 @@ The predicted intent is stored in ```classes[label]``` which is the output of th
 The annotated dataset used to train the model for this module is [test](https://github.com/nvasu001/CS-733-Voice-Assistant-for-Food-Ordering/blob/main/test.csv) [train](https://github.com/nvasu001/CS-733-Voice-Assistant-for-Food-Ordering/blob/main/train.csv) and [validation](https://github.com/nvasu001/CS-733-Voice-Assistant-for-Food-Ordering/blob/main/valid.csv).
     
 ### Slot Detector
+
+For the slot detector we have used spaCy's ___[2]___ NER and we have fine tuned it for our need. We have used Tok2Vec model that uses CPU which is opimized for accuracy in this prototype. Using transformers can yeild better accuracy in the predictions and one can create the necessary configuration file for it using ___[3]___.
     
 The slot detector detects the __entities__ which are the items that are chosen by the user to act on such as _italian artisan bread_, _cucumbers_ and _peppercorn ranch_ and the __slots__ which are the item's type such as bread, veggies and sauce. 
 
 The ```ent.text``` is the entity and the ```ent.label_``` is the slot which are the outputs of the slot detector.
 
 The annotated dataset used to train the model for this module is [here](https://github.com/nvasu001/CS-733-Voice-Assistant-for-Food-Ordering/blob/main/slot_annotated_utterances.json).
+    
 ## DM
     
 The dialogue management is where the conversation is tracked and the appropriate response choices and agent actions are decided. 
@@ -83,16 +86,16 @@ For the prototype we have used python scripting to decide how to make the covers
 
 ## NLG 
 
-In thi prototype, For the NLG we normalize the entities (Text Normalization) uttered by the user using a python dictionary ```official_name```. We replace the <ref> tags with the normalized words. Then we pass on the response to a Text to speech _[7]_ so the user can hear it. 
+In thi prototype, For the NLG we normalize the entities (Text Normalization) uttered by the user using a python dictionary ```official_name```. We replace the <ref> tags with the normalized words. Then we pass on the response to a Text to speech ___[7]___ so the user can hear it. 
       
 ## References
-1. https://colab.research.google.com/github/PradipNichite/Youtube-Tutorials/blob/main/Spacy_Custom_NER_Youtube.ipynb#scrollTo=enIOTr8y6hf9 (SPACY NER)
-2. https://github.com/amrrs/custom-ner-with-spacy3/blob/main/Custom_NER_with_Spacy3.ipynb (SPACY NER)
-3. https://spacy.io/usage/training#config-overrides (SPACT NER base_config.cfg)
-4. https://tecoholic.github.io/ner-annotator/ (NER ANNOTATOR)
-5. https://pypi.org/project/GoogleAudio/ (COLAB AUDIO RECORDING SETUP)
-6. https://www.researchgate.net/publication/358429149_Speech_to_text_in_python Sundiman, Didi. (2022). Speech to text in python. (ASR)
-7. https://github.com/mammothtraining/Super-Simple-Text-to-Speech-with-Python-and-Google-Colab/blob/main/01%20Convert%20text%20to%20speech%20with%20gTTS.ipynb (TTS)
-8. https://www.youtube.com/watch?v=ngYRYMoIGu8&ab_channel=MammothInteractive (TTS)
-9. https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/18.intent-recognition-with-BERT.ipynb (INTENT DETECTOR)
-10.https://curiousily.com/posts/intent-recognition-with-bert-using-keras-and-tensorflow-2/(INTENT DETECTOR)
+1.  https://colab.research.google.com/github/PradipNichite/Youtube-Tutorials/blob/main/Spacy_Custom_NER_Youtube.ipynb#scrollTo=enIOTr8y6hf9 (SPACY NER)
+2.  https://github.com/amrrs/custom-ner-with-spacy3/blob/main/Custom_NER_with_Spacy3.ipynb (SPACY NER)
+3.  https://spacy.io/usage/training#config-overrides (SPACT NER base_config.cfg)
+4.  https://tecoholic.github.io/ner-annotator/ (NER ANNOTATOR)
+5.  https://pypi.org/project/GoogleAudio/ (COLAB AUDIO RECORDING SETUP)
+6.  https://www.researchgate.net/publication/358429149_Speech_to_text_in_python Sundiman, Didi. (2022). Speech to text in python. (ASR)
+7.  https://github.com/mammothtraining/Super-Simple-Text-to-Speech-with-Python-and-Google-Colab/blob/main/01%20Convert%20text%20to%20speech%20with%20gTTS.ipynb (TTS)
+8.  https://www.youtube.com/watch?v=ngYRYMoIGu8&ab_channel=MammothInteractive (TTS)
+9.  https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/18.intent-recognition-with-BERT.ipynb (INTENT DETECTOR)
+10. https://curiousily.com/posts/intent-recognition-with-bert-using-keras-and-tensorflow-2/(INTENT DETECTOR)
