@@ -7,15 +7,16 @@ This project is still at the Prototype stage.
 ## Table of Contents
 - [File from the repo to be used along with the code](#File-from-the-repo-to-be-used-along-with-the-code)
 - [Architecture of the Prototype](#Prototype-Architecture)
-- [Natural Language Understanding (NLU)](#NLU)
-    - [Automatic Speech Recognition (ASR)](#ASR)
-    - [Intent Detector](#Intent-Detector)
-    - [Slot Detector](#Slot-Detector)
-- [Dialogue Management (DM)](#DM)
-    - [Dialogue Policy (DP)](#DP)
-    - [Dialogue State Tracking (DST)](#DST)
-- [Natural Language Generation (NLG)](#NLG)
-- [Integrated Voice Assistant](#Integrated-VA)
+- [Modules](#Modules)
+    - [Natural Language Understanding (NLU)](#NLU)
+        - [Automatic Speech Recognition (ASR)](#ASR)
+        - [Intent Detector](#Intent-Detector)
+        - [Slot Detector](#Slot-Detector)
+    - [Dialogue Management (DM)](#DM)
+        - [Dialogue Policy (DP)](#DP)
+        - [Dialogue State Tracking (DST)](#DST)
+    - [Natural Language Generation (NLG)](#NLG)
+    - [Integrated Voice Assistant](#Integrated-VA)
 
 
 ## File from the repo to be used along with the code
