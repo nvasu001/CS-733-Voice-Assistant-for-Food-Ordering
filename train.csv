@@ -483,7 +483,7 @@ No oil,deselect
 I don`t want  sauce,deselect
 get me oil,select
 hey i like to order a sub,greetings
-hello i would like to have a subway
+hello i would like to have a subway,greetings
 I will have red wine vinegar,select
 I`d like to order yellow mustard,select
 I don`t want  salt,deselect
