@@ -6,7 +6,7 @@ This project is still at the Prototype stage.
 
 ## Table of Contents
 - [File from the repo to be used along with the code](#File-from-the-repo-to-be-used-along-with-the-code)
-- [Architecture of the Prototype](#Prototype-Architecture]
+- [Architecture of the Prototype](#Prototype-Architecture)
 - [Natural Language Understanding (NLU)](#NLU)
     - [Automatic Speech Recognition (ASR)](#ASR)
     - [Intent Detector](#Intent-Detector)
@@ -33,12 +33,6 @@ You do not have to upload these files into the ___VoiceAssistantforSubway.ipynb_
 
 ![](Prototype_Architecture.png)
 
-## Integrated VA
-
-This module is where one executes the voice assistant. It will record the voice and create and audio.wav file which will be used by the ASR to convert speech into text. Then the utterance text will be passed through the intent detector to find the intent and the slot detector to find the entity and its slot. It will look through the dialog policy and pick the appropriate reponse. The responses will have a placement tag of <ref> which will be replaced by the normalized term (ex: official name of the item from the menu). The response will then be passed through the TTS to give out the voice audio response of the assistant. 
-
-Once you execute the Integrated VA, it will immediately start recording your command and once you stop the recording, it will give a response to your command.
-    
 ## NLU
     
 The NLU in a TOD is used to extract the user's goal from the utterance. 
@@ -91,6 +85,12 @@ For the prototype we have used python scripting to decide how to make the covers
 ## NLG 
 
 In thi prototype, For the NLG we normalize the entities (Text Normalization) uttered by the user using a python dictionary ```official_name```. We replace the <ref> tags with the normalized words. Then we pass on the response to a Text to speech ___[7]___ so the user can hear it. 
+
+## Integrated VA
+
+This module is where one executes the voice assistant. It will record the voice and create and audio.wav file which will be used by the ASR to convert speech into text.
+
+Once you execute the Integrated VA, it will immediately start recording your command and once you stop the recording, it will give a response to your command.
       
 ## References
 1.  https://colab.research.google.com/github/PradipNichite/Youtube-Tutorials/blob/main/Spacy_Custom_NER_Youtube.ipynb#scrollTo=enIOTr8y6hf9 (SPACY NER)
