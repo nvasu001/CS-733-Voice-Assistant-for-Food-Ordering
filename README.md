@@ -6,6 +6,7 @@ This project is still at the Prototype stage.
 
 ## Table of Contents
 - [File from the repo to be used along with the code](#File-from-the-repo-to-be-used-along-with-the-code)
+- [Architecture of the Prototype](#Prototype-Architecture]
 - [Natural Language Understanding (NLU)](#NLU)
     - [Automatic Speech Recognition (ASR)](#ASR)
     - [Intent Detector](#Intent-Detector)
@@ -28,6 +29,9 @@ This project is still at the Prototype stage.
 
 You do not have to upload these files into the ___VoiceAssistantforSubway.ipynb___ colab file. Executing the __!wget__ line will upload them into the colab instance.
 
+## Prototype Architecture
+
+![](Prototype_Architecture.png)
 
 ## Integrated VA
 
