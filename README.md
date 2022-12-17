@@ -5,16 +5,16 @@ It is a Voice Assistant that will aid one to make an order on Subway food orderi
 This project is still at the Prototype stage.
 
 ## Table of Contents
-- [File from the repo to be used along with the code](#File from the repo to be used along with the code)
+- [File from the repo to be used along with the code](#File-from-the-repo-to-be-used-along-with-the-code)
 - [Natural Language Understanding (NLU)](#NLU)
     - [Automatic Speech Recognition (ASR)](#ASR)
-    - [Intent Detector](#Intent Detector)
-    - [Slot Detector](#Slot Detector)
+    - [Intent Detector](#Intent-Detector)
+    - [Slot Detector](#Slot-Detector)
 - [Dialogue Management (DM)](#DM)
     - [Dialogue Policy (DP)](#DP)
     - [Dialogue State Tracking (DS)](#DS)
 - [Natural Language Generation (NLG)](#NLG)
-- [Integrated Voice Assistant](#Integrated VA)
+- [Integrated Voice Assistant](#Integrated-VA)
 
 
 ## File from the repo to be used along with the code
