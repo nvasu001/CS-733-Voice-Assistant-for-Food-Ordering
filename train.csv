@@ -12,6 +12,7 @@ get me bread,select
 I want Artisan Italian,select
 I`d like to order baja chipotle,select
 give me Tomato,select
+hello,greetings
 I want belgioioso fresh mozzarella,select
 I don`t want  baja chipotle,deselect
 Please remove peppercorn ranch,deselect
@@ -21,6 +22,7 @@ I`d like to order pepperoni,select
 remove  pepperoni,deselect
 I choose regular mayonnaise,select
 I will have bread,select
+hi ,greetings
 remove  footlong,deselect
 remove  salt,deselect
 I will have baja chipotle,select
@@ -38,6 +40,7 @@ I choose Banana Peppers,select
 Please remove Green Peppers,deselect
 Please remove addons,deselect
 Add sweet onion teriyaki,select
+hi, i like to order a sub,greetings
 Please remove salt,deselect
 Please remove Hearty Multigrain,deselect
 Please add capicola,select
@@ -49,12 +52,14 @@ remove  Pepper Jack,deselect
 get me 6,select
 No Swiss,deselect
 I choose size,select
+hello i like to order a sub,greetings
 I`d like to order Provolone,select
 add Cucumber,select
 Please remove Banana Peppers,deselect
 get me Provolone,select
 Please remove Lettuce,deselect
 I`d like to order Hearty Multigrain,select
+hey,greetings
 remove  Monterey Cheddar,deselect
 remove  Jalapeños,deselect
 give me Pepper Jack,select
@@ -84,6 +89,7 @@ get me parmesan cheese,select
 Please remove belgioioso fresh mozzarella,deselect
 Please add belgioioso fresh mozzarella,select
 No regular mayonnaise,deselect
+hello i would like to order a subway,
 I will have honey mustard,select
 Add American Cheese,select
 I`d like to order honey mustard,select
@@ -388,6 +394,7 @@ I`d like to order Pepper Jack,select
 get me veggies,select
 I choose 6,select
 I choose addons,select
+hey,i would like to order a subway,greetings
 I don`t want  Pickles,deselect
 remove  Artisan Flatbread,deselect
 I choose belgioioso fresh mozzarella,select
@@ -410,6 +417,7 @@ remove  Swiss,deselect
 I choose veggies,select
 I`d like to order Monterey Cheddar,select
 give me parmesan cheese,select
+hey,i`d like to order a subway,greetings
 I want smashed avocado,select
 Please add baja chipotle,select
 No Red Onions,deselect
@@ -425,6 +433,7 @@ Please remove smashed avocado,deselect
 Please add Spinach,select
 Please remove Tomato,deselect
 Add honey mustard,select
+hello,i like to order a subway,greetings
 Add roasted garlic aioli,select
 I choose sauce,select
 Please add 6,select
@@ -441,6 +450,7 @@ I`d like to order sauce,select
 I`d like to order oil,select
 get me American Cheese,select
 I`d like to order Tomatoes,select
+hey,i like to order a subway,greetings
 get me mvp parmesan vinaigrette,select
 I`d like to order cheese,select
 Please remove cheese,deselect
@@ -454,6 +464,7 @@ I`d like to order red wine vinegar,select
 No pepperoni,deselect
 Add capicola,select
 I want sliced avocado,select
+hi,i like to order a subway,greetings
 Please remove sauce,deselect
 I don`t want  mvp parmesan vinaigrette,deselect
 I will have Lettuce,select
@@ -469,6 +480,8 @@ remove  Banana Peppers,deselect
 No oil,deselect
 I don`t want  sauce,deselect
 get me oil,select
+hey,i like to order a sub,greetings
+hello i would like to have a subway
 I will have red wine vinegar,select
 I`d like to order yellow mustard,select
 I don`t want  salt,deselect
