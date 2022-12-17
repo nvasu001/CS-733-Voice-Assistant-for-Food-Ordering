@@ -396,7 +396,7 @@ I`d like to order Pepper Jack,select
 get me veggies,select
 I choose 6,select
 I choose addons,select
-hey,i would like to order a subway,greetings
+hey i would like to order a subway,greetings
 I don`t want  Pickles,deselect
 remove  Artisan Flatbread,deselect
 I choose belgioioso fresh mozzarella,select
@@ -419,7 +419,7 @@ remove  Swiss,deselect
 I choose veggies,select
 I`d like to order Monterey Cheddar,select
 give me parmesan cheese,select
-hey,i`d like to order a subway,greetings
+hey i`d like to order a subway,greetings
 I want smashed avocado,select
 Please add baja chipotle,select
 No Red Onions,deselect
@@ -435,7 +435,7 @@ Please remove smashed avocado,deselect
 Please add Spinach,select
 Please remove Tomato,deselect
 Add honey mustard,select
-hello,i like to order a subway,greetings
+hello i like to order a subway,greetings
 Add roasted garlic aioli,select
 I choose sauce,select
 Please add 6,select
@@ -452,7 +452,7 @@ I`d like to order sauce,select
 I`d like to order oil,select
 get me American Cheese,select
 I`d like to order Tomatoes,select
-hey,i like to order a subway,greetings
+hey i like to order a subway,greetings
 get me mvp parmesan vinaigrette,select
 I`d like to order cheese,select
 Please remove cheese,deselect
@@ -466,7 +466,7 @@ I`d like to order red wine vinegar,select
 No pepperoni,deselect
 Add capicola,select
 I want sliced avocado,select
-hi,i like to order a subway,greetings
+hi i like to order a subway,greetings
 Please remove sauce,deselect
 I don`t want  mvp parmesan vinaigrette,deselect
 I will have Lettuce,select
@@ -482,7 +482,7 @@ remove  Banana Peppers,deselect
 No oil,deselect
 I don`t want  sauce,deselect
 get me oil,select
-hey,i like to order a sub,greetings
+hey i like to order a sub,greetings
 hello i would like to have a subway
 I will have red wine vinegar,select
 I`d like to order yellow mustard,select
