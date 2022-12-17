@@ -17,6 +17,7 @@ This project is still at the Prototype stage.
         - [Dialogue State Tracking (DST)](#DST)
     - [Natural Language Generation (NLG)](#NLG)
     - [Integrated Voice Assistant](#Integrated-VA)
+ - [References](#References)
 
 
 ## File from the repo to be used along with the code
@@ -34,17 +35,19 @@ You do not have to upload these files into the ___VoiceAssistantforSubway.ipynb_
 
 ![](Prototype_Architecture.png)
 
-## NLU
+## Modules
+
+### NLU
     
 The NLU in a TOD is used to extract the user's goal from the utterance. 
 
-### ASR
+#### ASR
     
 For the ASR we have used the GoogleColabAudio ___[5]___ to set up the mic which saves the audio recording in ```audio.wav``` as colab runs in a remote server and does not have access to the built in microphone of the local machine. We have also used the Speech to Text ___[6]___ as the ASR along with the recorder.
 
 The output of the ASR is ```user_input``` which is a string type.
 
-### Intent Detector
+#### Intent Detector
 
 The intent detector in a TOD extracts the command/action context from the user's utterance based off which a response can be chosen.
 
@@ -61,7 +64,7 @@ The predicted intent is stored in ```classes[label]``` which is the output of th
 
 The annotated dataset used to train the model for this module is [test](https://github.com/nvasu001/CS-733-Voice-Assistant-for-Food-Ordering/blob/main/test.csv), [train](https://github.com/nvasu001/CS-733-Voice-Assistant-for-Food-Ordering/blob/main/train.csv) and [validation](https://github.com/nvasu001/CS-733-Voice-Assistant-for-Food-Ordering/blob/main/valid.csv).
     
-### Slot Detector
+#### Slot Detector
 
 For the slot detector we have used spaCy's ___[2]___ NER and we have fine tuned it for our need. We have used Tok2Vec model that uses CPU which is opimized for accuracy in this prototype. Using transformers can yeild better accuracy in the predictions and one can create the necessary configuration file for it using ___[3]___.
     
@@ -71,23 +74,23 @@ The ```ent.text``` is the entity and the ```ent.label_``` is the slot which are 
 
 The annotated dataset used to train the model for this module is [here](https://github.com/nvasu001/CS-733-Voice-Assistant-for-Food-Ordering/blob/main/slot_annotated_utterances.json).
     
-## DM
+### DM
     
 The dialogue management is where the conversation is tracked and the appropriate response choices and agent actions are decided. 
     
-### DP
+#### DP
 
 For the Dialogue Policy we have used dialogue_policy.csv to implement it. It is in the form of a pandas dataframe ```df```.
     
-### DST 
+#### DST 
 
 For the prototype we have used python scripting to decide how to make the coverstation with the user. A Dialogue turn is created here for each and every command.
 
-## NLG 
+### NLG 
 
 In thi prototype, For the NLG we normalize the entities (Text Normalization) uttered by the user using a python dictionary ```official_name```. We replace the <ref> tags with the normalized words. Then we pass on the response to a Text to speech ___[7]___ so the user can hear it. 
 
-## Integrated VA
+### Integrated VA
 
 This module is where one executes the voice assistant. It will record the voice and create and audio.wav file which will be used by the ASR to convert speech into text.
 
