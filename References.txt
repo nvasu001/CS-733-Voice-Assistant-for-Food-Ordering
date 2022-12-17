@@ -1,13 +1,12 @@
-https://github.com/monologg/JointBERT
-https://arxiv.org/pdf/1812.09471.pdf
-https://github.com/RexZChen/Bi-Lingual-Dialogue-System  (reference for intent)
+https://arxiv.org/pdf/1812.09471.pdf (reference for intent)
 https://github.com/czhang99/Capsule-NLU (capsule)
 https://arxiv.org/pdf/1812.09471.pdf (capsule)
-https://github.com/90217/joint-intent-classification-and-slot-filling-based-on-BERT (BERT)
-https://arxiv.org/pdf/1902.10909.pdf (BERT)
-https://www.youtube.com/watch?v=SqVeAxrPAB0 (for asr)
-https://www.youtube.com/watch?v=u6cmiBp1obc (for tts)
-https://colab.research.google.com/github/PradipNichite/Youtube-Tutorials/blob/main/Spacy_Custom_NER_Youtube.ipynb#scrollTo=enIOTr8y6hf9 ( spacy NER)
+https://colab.research.google.com/github/PradipNichite/Youtube-Tutorials/blob/main/Spacy_Custom_NER_Youtube.ipynb#scrollTo=enIOTr8y6hf9 (SPACY NER)
 https://github.com/amrrs/custom-ner-with-spacy3/blob/main/Custom_NER_with_Spacy3.ipynb (SPACY NER)
-https://tecoholic.github.io/ner-annotator/ (ner annotator)
-https://pypi.org/project/GoogleAudio/ (colab microphone)
+https://spacy.io/usage/training#config-overrides (SPACT NER base_config.cfg)
+https://tecoholic.github.io/ner-annotator/ (NER ANNOTATOR)
+https://pypi.org/project/GoogleAudio/ (COLAB AUDIO RECORDING SETUP)
+(ASR) - missing
+(TTS) - missing
+https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/18.intent-recognition-with-BERT.ipynb (INTENT DETECTOR)
+https://curiousily.com/posts/intent-recognition-with-bert-using-keras-and-tensorflow-2/ (INTENT DETECTOR)
