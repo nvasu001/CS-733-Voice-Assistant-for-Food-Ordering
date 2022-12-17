@@ -59,6 +59,12 @@ There are 6 intents:
     
 The ```sentences``` variable stores the utterances from ```user_input``` in the NLU and ```text``` stores the ```sentences``` as string type.
 The predicted intent is stored in ```classes[label]``` which is the output of the Intent Detector module.
+    
+### Slot Detector
+    
+The slot detector detects the __entities__ which are the items that are chosen by the user to act on such as _italian artisan bread_, _cucumbers_ and _peppercorn ranch_ and the __slots__ which are the item's type such as bread, veggies and sauce. 
+
+The ```ent.text``` is the entity and the ```ent.label_``` is the slot which are the outputs of the slot detector.
 
 ## References
 1. https://colab.research.google.com/github/PradipNichite/Youtube-Tutorials/blob/main/Spacy_Custom_NER_Youtube.ipynb#scrollTo=enIOTr8y6hf9 (SPACY NER)
