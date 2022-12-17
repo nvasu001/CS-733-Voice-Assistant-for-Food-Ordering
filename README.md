@@ -43,7 +43,7 @@ The NLU in a TOD is used to extract the user's goal from the utterance.
 
 #### ASR
     
-For the ASR we have used the GoogleColabAudio ___[5]___ to set up the mic which saves the audio recording in ```audio.wav``` as colab runs in a remote server and does not have access to the built in microphone of the local machine. We have also used the Speech to Text ___[6]___ as the ASR along with the recorder.
+For the ASR we have used the GoogleColabAudio ___[5]___ to set up the mic which saves the audio recording in ```audio.wav``` as colab runs in a remote server and does not have access to the built in microphone of the local machine. We have also used the Speech to Text ___[7]___ as the ASR along with the recorder.
 
 The output of the ASR is ```user_input``` which is a string type.
 
@@ -88,7 +88,7 @@ For the prototype we have used python scripting to decide how to make the covers
 
 ### NLG 
 
-In thi prototype, For the NLG we normalize the entities (Text Normalization) uttered by the user using a python dictionary ```official_name```. We replace the <ref> tags with the normalized words. Then we pass on the response to a Text to speech ___[7]___ so the user can hear it. 
+In thi prototype, For the NLG we normalize the entities (Text Normalization) uttered by the user using a python dictionary ```official_name```. We replace the <ref> tags with the normalized words. Then we pass on the response to a Text to speech ___[8]___ so the user can hear it. 
 
 ### Integrated VA
 
@@ -103,7 +103,8 @@ Once you execute the Integrated VA, it will immediately start recording your com
 4.  https://tecoholic.github.io/ner-annotator/
 5.  https://pypi.org/project/GoogleAudio/
 6.  https://www.researchgate.net/publication/358429149_Speech_to_text_in_python Sundiman, Didi. (2022). Speech to text in python.
-7.  https://github.com/mammothtraining/Super-Simple-Text-to-Speech-with-Python-and-Google-Colab/blob/main/01%20Convert%20text%20to%20speech%20with%20gTTS.ipynb
-8.  https://www.youtube.com/watch?v=ngYRYMoIGu8&ab_channel=MammothInteractive
-9.  https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/18.intent-recognition-with-BERT.ipynb
-10. https://curiousily.com/posts/intent-recognition-with-bert-using-keras-and-tensorflow-2/
+7.  https://pypi.org/project/SpeechRecognition/
+8.  https://github.com/mammothtraining/Super-Simple-Text-to-Speech-with-Python-and-Google-Colab/blob/main/01%20Convert%20text%20to%20speech%20with%20gTTS.ipynb
+9.  https://www.youtube.com/watch?v=ngYRYMoIGu8&ab_channel=MammothInteractive
+10.  https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/18.intent-recognition-with-BERT.ipynb
+11. https://curiousily.com/posts/intent-recognition-with-bert-using-keras-and-tensorflow-2/
