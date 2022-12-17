@@ -1,6 +1,6 @@
 # Subway Voice Assistant
 
-### Files from the repo that are used
+### Files from the repo that are used in the colab file.
 
 1. test.csv - _it is the intent annotated test dataset_
 2. train.csv - _it is the intent annotated train dataset_
@@ -12,7 +12,7 @@
 
 You do not have to upload these files into the ___VoiceAssistantforSubway.ipynb___ colab file. Executing the __!wget__ line will upload them into the colab instance.
 
-There are 5 modules in the ___VoiceAssistantforSubway.ipynb___ colab file. Namely:
+### There are 5 modules in the ___VoiceAssistantforSubway.ipynb___ colab file. Namely:
 
 1. ASR
 2. Intent Dectection
