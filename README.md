@@ -8,8 +8,9 @@
 4. base_config.cfg
 5. dialogue_policy.csv
 6. slot_annotated_utterances.csv
+7. requirements.txt
 
-You do not have to upload these files into the ___VoiceAssistantforSubway.ipynb___ colab file. Executing the __!wget__ code will upload them into the colab instance.
+You do not have to upload these files into the ___VoiceAssistantforSubway.ipynb___ colab file. Executing the __!wget__ line will upload them into the colab instance.
 
 There are 5 modules in the ___VoiceAssistantforSubway.ipynb___ colab file. Namely:
 
