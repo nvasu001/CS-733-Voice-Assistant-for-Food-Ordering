@@ -19,7 +19,7 @@ This project is still at the Prototype stage.
 
 ## File from the repo to be used along with the code
 
-1. Dataset containing files (train.csv,test.csv,valid.csv) required to train the __Bert model__ for the intent Detection__ 
+1. Dataset containing files (train.csv,test.csv,valid.csv) required to train the __Bert model__ for the intent Detection 
 2. base_config.cfg - _it is a configuration file for spaCy NER using __Tok2Vec__ which uses CPU and it is optimized for ACCURACY_
 3. dialogue_policy.csv 
 4. slot_annotated_utterances.csv - _it is the slot and entity annotation dataset for spaCy NER_
