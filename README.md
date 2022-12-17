@@ -81,7 +81,7 @@ For the Dialogue Policy we have used dialogue_policy.csv to implement it. It is 
 
 For the prototype we have used python scripting to decide how to make the coverstation with the user. A Dialogue turn is created here for each and every command.
 
-## Dialogue 
+## NLG 
 
 In thi prototype, For the NLG we normalize the entities (Text Normalization) uttered by the user using a python dictionary ```official_name```. We replace the <ref> tags with the normalized words. Then we pass on the response to a Text to speech _[7]_ so the user can hear it. 
       
