@@ -33,7 +33,7 @@ You do not have to upload these files into the ___VoiceAssistantforSubway.ipynb_
 
 ## Prototype Architecture
 
-![](Prototype_Architecture.png)
+![](CS_733_Architecture.png)
 
 ## Modules
 
