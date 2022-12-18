@@ -8,6 +8,7 @@ select,VEGGIES,I have selected <ref> for your sandwich. What sauces would you li
 select,SAUCE,I have selected <ref> for your sandwich. What seasoning would you like with that?
 select,SEASONINGS,Ok. I have selected <ref> for you. Would you like any add-ons?
 select,ADDONS,"Ok, I have selected <ref> for you. Would you like me to place the order?"
+select,ADD ON,"Ok, I have selected <ref> for you. Would you like me to place the order?"
 agree,,"Ok, I have placed the order for you. We can move on to checking out."
 deselect,SANDWICH,"Ok, I have removed <ref> sandwich for you. What sandwich would you like to have?"
 deselect,SIZE,Ok. What size of sandwich would you like to have?
@@ -17,3 +18,4 @@ deselect,VEGGIES,"Ok, I have removed <ref> from your order, would you like any o
 deselect,SAUCE,"Ok, I have removed <ref> from your order, would you like any other sauce in your sandwich?"
 deselect,SEASONINGS,"Ok, I have removed <ref> from your order, would you like any other seasoning in your sandwich?"
 deselect,ADDONS,"Ok, I have removed <ref> from your order, would you like any other addon with your sandwich?"
+deselect,ADD ON,"Ok, I have removed <ref> from your order, would you like any other addon with your sandwich?"
