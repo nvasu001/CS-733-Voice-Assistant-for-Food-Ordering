@@ -4,10 +4,10 @@ select,SANDWICH,Ok. I have selected the <ref> sandwich for you. What size would 
 select,SIZE,Ok. I have selected <ref> sandwich for you. What bread would like to have in your sandwich?
 select,BREAD,Ok. I have selected <ref> bread for you. What cheese would you like on your sandwich
 select,CHEESE,I have selected <ref> cheese to go with your sandwich. What veggies would you you like to top that with?
-select,VEGGIES,I have selected <ref> for your sandwich. What sauces would you like to drizzle on your sandwich?
-select,SAUCE,I have selected <ref> for your sandwich. What seasoning would you like with that?
-select,SEASONINGS,Ok. I have selected <ref> for you. Would you like any add-ons?
-select,ADDONS,"Ok, I have selected <ref> for you. Would you like me to place the order?"
+select,VEGGIES,I have selected <ref> for you. Would you like to continue selecting veggies or what sauces would you like?
+select,SAUCE,I have selected <ref> for your sandwich. Would you like to continue selecting sauces or what seasoning would you like with that?
+select,SEASONINGS,Ok. I have selected <ref> for you. Would you like to have some more seasonings or Would you like any add-ons?
+select,ADDONS,"Ok, I have selected <ref> for you. Would you like to have some more addons or Would you like me to place the order?"
 select,ADD ON,"Ok, I have selected <ref> for you. Would you like me to place the order?"
 agree,,"Ok, I have placed the order for you. We can move on to checking out."
 deselect,SANDWICH,"Ok, I have removed <ref> sandwich for you. What sandwich would you like to have?"
