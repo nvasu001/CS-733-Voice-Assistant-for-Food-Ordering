@@ -6,7 +6,7 @@ This project is still at the Prototype stage.
 
 [Here is the link to the colab project](https://github.com/nvasu001/Voice-Assistant-for-Subway-Food-Ordering/blob/main/Voice_Assistant_for_Ordering_Food_on_Subway.ipynb)
 
-## Links to Project Presentation and Protoype demo
+## Links to Project Presentation and Prototype demo
 
 [Here is a link for the Project Presentation Video](https://youtu.be/W_h9eGujTpo)
 
