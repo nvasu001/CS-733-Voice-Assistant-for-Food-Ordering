@@ -10,6 +10,8 @@ This project is still at the Prototype stage.
 
 [Here is a link for the Project Presentation Video](https://youtu.be/W_h9eGujTpo)
 
+[Here is a link for the Project Prototype Demo](https://youtu.be/6XLLiJKJYtg)
+
 ## Table of Contents
 - [File from the repo to be used along with the code](#File-from-the-repo-to-be-used-along-with-the-code)
 - [Architecture of the Prototype](#Prototype-Architecture)
