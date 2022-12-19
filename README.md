@@ -2,7 +2,9 @@
 
 It is a Voice Assistant that will aid one to make an order on Subway food ordering website. It is a Task Oriented Dialogue System that do the task assigned to it and in this case it will be ordering food from subway. 
 
-This project is still at the Prototype stage.
+This project is still at the Prototype stage. 
+
+[Here is the link to the colab project](https://github.com/nvasu001/Voice-Assistant-for-Subway-Food-Ordering/blob/main/Voice_Assistant_for_Ordering_Food_on_Subway.ipynb)
 
 ## Table of Contents
 - [File from the repo to be used along with the code](#File-from-the-repo-to-be-used-along-with-the-code)
