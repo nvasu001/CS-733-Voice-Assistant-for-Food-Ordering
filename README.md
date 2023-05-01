@@ -59,12 +59,12 @@ The output of the ASR is ```user_input``` which is a string type.
 
 The intent detector in a TOD extracts the command/action context from the user's utterance based off which a response can be chosen.
 
-There are 6 intents:
-    1. Select (used in the prototype)
-    2. Deselect (used in the prototype)
-    3. Agree
-    4. Disagree
-    5. Instead
+There are 5 intents:
+1. Select (used in the prototype)
+2. Deselect (used in the prototype)
+3. Agree
+4. Disagree
+5. Instead
     
 The ```sentences``` variable stores the utterances from ```user_input``` in the NLU and ```text``` stores the ```sentences``` as string type.
 The predicted intent is stored in ```classes[label]``` which is the output of the Intent Detector module.
